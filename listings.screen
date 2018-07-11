@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="10" y="10" text="brand" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Shape" id="2" x="109" y="10" height="57" text="How to Invest" measuredWidth="94" measuredHeight="57" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="3" x="202" y="10" height="57" text="Market Place" measuredWidth="91" measuredHeight="57" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="4" x="758" y="10" text="Sign in, Join" measuredWidth="88" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="42" height="23" text="Sign in"/>
+    <items x="60" y="0" width="27" height="23" text="Join"/>
+  </widgets>
+  <widgets xsi:type="model:Map" id="5" x="10" y="120" width="391" height="492" measuredWidth="391" measuredHeight="492"/>
+  <widgets xsi:type="model:Image" id="6" x="412" y="120" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="7" x="412" y="223" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="8" x="563" y="120" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="9" x="412" y="288" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Image" id="11" x="563" y="288" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="12" x="412" y="456" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="13" x="412" y="559" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="14" x="563" y="456" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="15" x="632" y="120" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="16" x="632" y="223" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="17" x="783" y="120" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="19" x="632" y="288" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="20" x="632" y="391" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="21" x="783" y="288" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="22" x="632" y="456" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Image" id="24" x="783" y="456" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:TextArea" id="25" x="412" y="411" text="100% invested&#xA; *30%* annual return" measuredWidth="118" measuredHeight="38">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="26" x="632" y="579" text="100% invested&#xA; *30%* annual return" measuredWidth="118" measuredHeight="38">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Panel" id="2" width="1233" height="785" measuredWidth="1233" measuredHeight="785" background="black" alpha="128" border="none"/>
+  <widgets xsi:type="model:Panel" id="3" x="144" width="808" height="784" measuredWidth="808" measuredHeight="784"/>
+  <widgets xsi:type="model:Tooltip" id="4" x="10" y="32" width="127" height="80" text="show listings.screen in background" measuredWidth="127" measuredHeight="80">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="5" x="143" y="88" width="809" measuredWidth="809" measuredHeight="6"/>
+  <widgets xsi:type="model:ButtonBar" id="7" x="144" width="240" height="48" text="Invest, Save, Share" measuredWidth="240" measuredHeight="48">
+    <font/>
+    <items x="0" y="0" width="82" height="48" text="Invest"/>
+    <items x="82" y="0" width="72" height="48" text="Save"/>
+    <items x="154" y="0" width="86" height="48" text="Share"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="824" y="66" width="128" text="Address" measuredWidth="128" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="9" x="144" y="128" width="816" height="280" text="image gallery" measuredWidth="816" measuredHeight="280"/>
+  <widgets xsi:type="model:Button" id="10" x="688" y="440" width="228" height="93" text="INVEST NOW" measuredWidth="228" measuredHeight="93">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="11" x="192" y="440" width="472" height="320" text="Description" measuredWidth="472" measuredHeight="320">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:ButtonBar" id="13" x="702" width="240" height="48" text="Expand, Close" measuredWidth="240" measuredHeight="48">
+    <font/>
+    <items x="0" y="0" width="128" height="48" text="Expand"/>
+    <items x="128" y="0" width="112" height="48" text="Close"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Image" id="1" x="-64" y="56" width="1017" height="220" measuredWidth="1017" measuredHeight="220"/>
+  <widgets xsi:type="model:Image" id="5" x="-64" text="brand" measuredWidth="100" measuredHeight="100"/>
+  <widgets xsi:type="model:Shape" id="6" x="35" height="57" text="How to Invest" measuredWidth="94" measuredHeight="57" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="7" x="128" height="57" text="Market Place" measuredWidth="91" measuredHeight="57" shapeType="rectangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:LinkBar" id="8" x="850" y="17" text="Sign in, Join" measuredWidth="88" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="42" height="23" text="Sign in"/>
+    <items x="60" y="0" width="27" height="23" text="Join"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="13" x="81" y="336" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Shape" id="14" x="-48" y="359" measuredWidth="100" measuredHeight="100" background="#000" rotation="270" shapeType="triangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="15" x="852" y="359" measuredWidth="100" measuredHeight="100" background="#000" rotation="90" shapeType="triangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="414" y="296" text="Assets Available Now" measuredWidth="126" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="17" x="81" y="439" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="18" x="352" y="336" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="19" x="355" y="441" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="20" x="608" y="336" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:TextArea" id="21" x="608" y="441" text="Property available&#xA;500 / 100,000,000 tokens invested&#xA;Estiamted *15%* annual return" measuredWidth="213" measuredHeight="53">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="22" x="88" y="608" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Shape" id="23" x="-41" y="631" measuredWidth="100" measuredHeight="100" background="#000" rotation="270" shapeType="triangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Shape" id="24" x="859" y="631" measuredWidth="100" measuredHeight="100" background="#000" rotation="90" shapeType="triangle">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="25" x="421" y="568" text="Best performing assets" measuredWidth="138" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="26" x="88" y="727" text="100% invested&#xA; *30%* annual return" measuredWidth="118" measuredHeight="38">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="27" x="359" y="608" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Image" id="29" x="615" y="608" width="213" height="161" measuredWidth="213" measuredHeight="161" link="single_listing.screen"/>
+  <widgets xsi:type="model:Button" id="31" x="418" y="512" text="See more listings" measuredWidth="118" measuredHeight="25" link="listings.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="32" x="418" y="784" text="Go to the marketplace" measuredWidth="146" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="33" x="359" y="730" text="100% invested&#xA; *30%* annual return" measuredWidth="118" measuredHeight="38">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="34" x="615" y="730" text="100% invested&#xA; *30%* annual return" measuredWidth="118" measuredHeight="38">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="35" x="-72" y="1048" width="1056" measuredWidth="1056" measuredHeight="6"/>
+  <widgets xsi:type="model:LinkBar" id="36" x="19" y="1029" text="About, Testimonials, Career, Terms of use &amp; Policy, Help" measuredWidth="381" measuredHeight="23">
+    <font/>
+    <items x="0" y="0" width="37" height="23" text="About"/>
+    <items x="55" y="0" width="74" height="23" text="Testimonials"/>
+    <items x="147" y="0" width="41" height="23" text="Career"/>
+    <items x="206" y="0" width="126" height="23" text="Terms of use &amp; Policy"/>
+    <items x="350" y="0" width="30" height="23" text="Help"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="37" x="184" y="1064" measuredWidth="468" measuredHeight="65" src="assets/home_image.png"/>
+  <widgets xsi:type="model:Arrow" id="38" x="312" y="1136" width="107" height="105" text="replace with own logo and name" measuredWidth="107" measuredHeight="105"/>
+  <widgets xsi:type="model:Image" id="42" x="232" y="336" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="43" x="505" y="336" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="44" x="758" y="336" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="45" x="768" y="608" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="46" x="509" y="608" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Image" id="47" x="238" y="608" width="63" height="64" measuredWidth="63" measuredHeight="64" src="assets/home_image(1).png"/>
+  <widgets xsi:type="model:Arrow" id="48" x="272" y="312" width="721" height="44" measuredWidth="721" measuredHeight="44" direction="bottom"/>
+  <widgets xsi:type="model:TextArea" id="49" x="1024" y="314" text="add to favorite&#xA;if not logged in, bring user to login page&#xA;if logged in, show *solid* if already added, turns *solid* if clicked. &#xA;clicking on it again will make it hollow" measuredWidth="365" measuredHeight="68">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
